@@ -1,8 +1,8 @@
 .teaser {
-  /* display: flex; */
+  display: flex;
   background: #000;
   align-items: stretch;
-  /* max-height: 240px; */
+  max-height: 240px;
   border-radius: 20px;
 }
 
